@@ -4,7 +4,7 @@ This project is designed to explore and make available and useful information an
 
 For this first semester there is a large amount of background knowledge to be acquired. 
 
-* 1.	Simple games/objectives will be demonstrated using AI and the documentation on this will not only help inform the project as it continues but also others learning AI and video games (likely in python)
+1.	Simple games/objectives will be demonstrated using AI and the documentation on this will not only help inform the project as it continues but also others learning AI and video games (likely in python)
 * 2.	While working in Python making simple games and AIs, C++ skills will be acquired.
 * 3.	The SC2 API will be set up to be usable and further documentation will be made to expand upon what Blizzard has already provided
 * 4.	It will be demonstrated that the API works and that a game can be created and launched vs humans and other bots
