@@ -1,7 +1,7 @@
 # Cybernetics-Core
 ![](https://liquipedia.net/commons/images/e/e5/CyCore.png)
 
-What is Cybernetics Core? Cybernetics Core is a project created for the Rensselaer Center for Open Source ([RCOS](https://rcos.io/)) with the end goal of creating a competative StarCraft 2 AI. This is possible thanks to Blizzard's release of their [StarCraft 2 Client API](https://github.com/Blizzard/s2client-api).
+What is Cybernetics Core? Cybernetics Core is a project created for the Rensselaer Center for Open Source ([RCOS](https://rcos.io/)) with the end goal of creating a competative StarCraft 2 AI. This is possible thanks to Blizzard's release of their [StarCraft 2 Client API](https://github.com/Blizzard/s2client-api). The name also comes from StarCraft 2 and is a Protoss Building. For another example of a project like this check out [Command Center](https://github.com/davechurchill/commandcenter).
 
 ## What is on this reposiory
 * Currently this repository is mostly empty (as the project is brand new) but this will be updated with every new development
