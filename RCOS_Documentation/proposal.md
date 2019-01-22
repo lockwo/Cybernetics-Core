@@ -1,6 +1,6 @@
 # Cybernetics Core Proposal
 
-Project members:
+Current project members:
 * Owen Lockwood
 * Mack Qian 
 
