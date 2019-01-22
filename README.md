@@ -16,7 +16,7 @@ This project was started in January of 2019, and from January to May here is a l
 ## Future goals
 The project is a never ending project. Because AI's are always getting better and changing over time, this project can constantly be changed and improved upon. In the more 'short term' future (i.e. in the months following May), hopefully more of the concpets of AI and machine learning will be incorporated.
 
-[HLKDJFLKSDJFLKDSFJLK]:
+[HLKDJFLKSDJFLKDSFJLK]: <>
 
 ## .
 ### .
