@@ -12,7 +12,7 @@ Machine Learning, Video games, and more.
 
 While during this first semester a large amount of background knowledge must be acquired (both advancing python and C++ knowledge and advancing
 AI and the existing API code), below are some objectives that we hope to complete this semester.
-
+## Milestones
  1. Simple games/objectives will be demonstrated using AI and the documentation on this will not only help inform the project as it continues but also others learning AI and video games (likely in python)
  2.	While working in Python making simple games and AIs, C++ skills will be acquired.
  3.	The SC2 API will be set up to be usable and further documentation will be made to expand upon what Blizzard has already provided
