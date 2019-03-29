@@ -1,4 +1,4 @@
-# https://chatbotslife.com/building-a-basic-pysc2-agent-b109cde1477c
+# This is from a tutorial
 # Whoops, outdated version, this code might be useless
 
 from pysc2.agents import base_agent
