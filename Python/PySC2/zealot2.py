@@ -1,4 +1,5 @@
-# This is from a tutorial, not original code
+# https://itnext.io/build-a-zerg-bot-with-pysc2-2-0-295375d2f58e
+
 
 from pysc2.agents import base_agent
 from pysc2.env import sc2_env
