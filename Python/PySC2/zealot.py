@@ -1,4 +1,4 @@
-# This is from a tutorial
+# This is from a tutorial, see newer version for updated information
 # Whoops, outdated version, this code might be useless
 
 from pysc2.agents import base_agent
