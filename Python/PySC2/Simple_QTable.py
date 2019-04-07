@@ -19,7 +19,7 @@ act = ['nothing', 'build_pylon', 'build_gateway', 'select_army', 'attack', 'trai
 KILL_UNIT_REWARD = 0.3
 KILL_BUILD_REWARD = 0.4
 #ARMY_REWARD = 0.1
-
+#The qtable is straight from Morvan but will be improved upon
 class QLearningTable:
     def __init__(self, actions, learning_rate=0.01, reward_decay=0.9, e_greedy=0.9):
         self.actions = actions  # a list
